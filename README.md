@@ -1,5 +1,6 @@
 # 🚀 Boost Your Embedded Engineering Skills with These Essential Resources! 🚀
-![Uploading Screenshot 2024-10-09 at 08.51.26.png…]()
+<img width="472" alt="Screenshot 2024-10-09 at 08 53 32" src="https://github.com/user-attachments/assets/3ddd603b-fb7a-4990-b4c8-c0d341cf7e1e">
+
 
 Are you just starting your journey as an embedded engineer or looking to strengthen your computer science foundations? Here’s a handpicked list of beginner-friendly resources to help you understand the basics and gradually move into programming and system setup.
 
